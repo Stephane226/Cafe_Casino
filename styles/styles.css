@@ -22,6 +22,12 @@ body{
     flex-wrap: wrap;
     
 }
+.home-overview-btn{
+    border:1px solid rgb(248, 248, 248);
+    border-radius: 10px;
+    width:100%;
+    padding:20px;
+}
 .overview-case{
     width:47%;
     height:auto;
@@ -42,4 +48,127 @@ body{
 }
 .inner-block{
     margin:50px 0px;
+}
+button{
+    width: 100%;
+    background-color: transparent;
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border: 1px solid white;
+}
+
+.mid-inner{
+    padding:0px  !important
+}
+
+
+/*Side bar */
+.right-sidebar h4{
+    background-color: #241f43;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 23px;
+    padding: 10px;
+    font-size: 21px;
+}
+
+.right-sidebar ul{
+    width: 90%;
+    margin: 30px auto;
+    
+}
+.right-sidebar ul li{
+    border-bottom: 1px solid #433e64;
+    list-style-type: none;
+    padding: 10px 15px;
+}
+
+.closer {
+    list-style-type: none;
+}
+.right-sidebar ul li:before {
+    content: '•';
+    margin-right: 3px;
+}
+.right-sidebar ul li:last-child{
+    border-bottom: none
+}
+
+.right-side-inner{
+    margin:10px auto;
+    width:90%;
+}
+
+.right-side-inner img{
+    width:100%;
+    max-width:100%
+}
+
+.right-side-inner h6{
+    font-size:16px;
+}
+.right-side-inner span{
+    font-size:12px;
+}
+.right-side-inner  .col-lg-4{
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+.right-side-inner button{
+    padding: 8px 9px;
+    margin-top: 5px;
+}
+
+.sidebar-row{
+
+    border-radius: 10px;
+    padding: 12px 5px;
+    margin:5px auto;
+    width: 100%;
+}
+.sidebar-row:hover{
+    background-color: #241f43;
+}
+.latest-news .text-desc{
+  font-size:14px;
+}
+
+.right-sidebar .col-lg-5, .col-lg-9{
+    padding-left: 0px;
+
+}
+.home-overview-btn h5{
+    text-align: center;
+    margin-bottom: 23px;
+
+}
+
+.inner-block-text{
+    padding:40px;
+    background-color: #241f43;
+    border-radius: 8px;
+    margin:30px 0px;
+
+}
+
+.num-round{
+    font-size: 17px;
+    margin-right: 12px;
+    background-color: #423d64;
+  
+    width: 30px;
+    padding: 5;
+    height: 30px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 600;
+    display: inline-block;
+    border-radius: 50%;
+}
+.inner-block-head{
+    display:flex
 }
