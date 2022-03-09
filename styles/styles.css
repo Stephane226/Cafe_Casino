@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    color:white
+}
+
+body{
+    background-color:#07041c;
+    color:white
+}
+/*Home page*/
+.home-block{
+    margin:50px auto;
+}
+.home-overview{
+    border:1px solid rgb(248, 248, 248);
+    border-radius: 10px;
+    width:100%;
+    padding:20px;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.overview-case{
+    width:47%;
+    height:auto;
+    padding:5px;
+    text-align:center;
+    margin:12px 0px;
+    
+}
+.overview-p{
+   padding:5px;
+   margin:10px 0px;
+    
+}
+.overview-case h6{
+    text-transform:uppercase;
+    font-size: 16px;
+    color: #8d8c8c;
+}
+.inner-block{
+    margin:50px 0px;
+}
