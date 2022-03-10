@@ -273,3 +273,74 @@ table{
 .tr-column-data:hover > th{
     background-color: #07041c;
 }
+
+
+
+.question {
+    background-color: #07041c;
+    border:1px solid white;
+    color: black;
+    position: relative;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.faq-home .active{
+    background-color: #241f43 !important;
+    border:none
+}
+.question h4{
+	margin: 0;
+	padding: 5px;
+}
+.answer {
+    background-color: #241f43;
+    display: none;
+    border-radius: 10px;
+}
+.answer p {
+    margin: 0;
+    padding: 25px;
+    text-align: justify;
+}
+.arrow {
+    background-image: url(https://png.pngtree.com/svg/20160818/78287d069c.svg);
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}
+.arrow-active{
+	transform: rotate(180deg);
+}
+
+.testimonial-title{
+  width:40%;
+  margin:0 auto
+}
+.testimonial-title p{
+    padding:0px 10px;
+    margin:0px
+}
+.marg-center{
+    margin:0 auto;
+}
+.news-letter{
+    background-color: #241f43;
+    padding:30px 0px;
+    border-radius:10px;
+    margin-bottom:50px;
+}
+.news-letter h4{
+    margin:20px 0px;
+    text-transform: uppercase;
+    
+}
+.footer-icons img{
+    height:25px;
+    margin:0px 20px;
+
+}

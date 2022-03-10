@@ -33,6 +33,28 @@
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
+<script>
+    
+	jQuery(document).ready(function($){
+		$('.question').on('click', function(){
+			if($(this).hasClass('active')){
+				$('.question').removeClass('active');
+				$('.arrow').removeClass('arrow-active');
+				$('.answer').slideUp();
+			}
+			else{
+				$('.question').removeClass('active');
+				$('.arrow').removeClass('arrow-active');
+				$('.answer').slideUp();
+				$(this).addClass('active');
+				$(this).children('.arrow').addClass('arrow-active');
+				$(this).children('.answer').slideToggle('slow');
+			}
+		});
+	});
+    
+ </script>
 </body>
 </html>

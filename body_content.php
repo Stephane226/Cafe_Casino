@@ -557,8 +557,88 @@
 
 
 
+     
+            <div class="detail-table section-part faq-home">
+           <h1>Frequently Asqued Questions</h1>
+         <div class="">
+            <div class="overview-p">
+               <p>
+                  Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+        et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+ mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+               </p>
+
+               </div>
+               
+           </div>
+
+           <div class="question">
+		<h4>What is lorem ispum</h4>
+			<div class="arrow"></div>
+				<div class="answer">
+                <p>Lorem Ipsum is simply dummy text of th e  is simply dummy text of the  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown </p>
+                    <p> Printing and typesetting industry  printing and typesetting industry  printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown </p>
+              
+            </div>
+	</div>
+
+	<div class="question">
+		<h4>What is lorem ispum</h4>
+			<div class="arrow"></div>
+				<div class="answer">
+                <p>Lorem Ipsum is simply dummy text of th e  is simply dummy text of the  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown </p>
+                    <p> Printing and typesetting industry  printing and typesetting industry  printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown </p>
+              
+            </div>
+	</div>
+  
+  	<div class="question">
+		<h4>What is lorem ispum</h4>
+			<div class="arrow"></div>
+				<div class="answer">
+
+					<p>Lorem Ipsum is simply dummy text of th e  is simply dummy text of the  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown </p>
+                    <p> Printing and typesetting industry  printing and typesetting industry  printing and typesetting industry Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown </p>
+                </div>
+	</div>
+  
+
+    <div class="inner-block">
+               <div class="home-overview-btn">
+              
+                  
+                     <div class="row testimonial-title">
+
+                     <div class=" col-lg-4 img-element">
+                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+                    </div>
+
+                    <div class="col-lg-8">
+                         <h6>John Doe</h6>
+                         <p> Casino Specialist </p>
+                         </div> 
+                 
+                   
+                     </div>
+                    
+                     <div class="">
+                     <p>Lorem Ipsum is simply dummy text of th e  is simply dummy text of the  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's </p>
+
+                     
+                     </div>
+                     
+                  
+               </div>
+            </div>
+           
+           </div>
+
+
+
+
        
            </div>
+           
             </div>
 
 
@@ -569,3 +649,43 @@
 
    </div>
 </section>
+
+<section class="footer-content">
+   <div class="container footer-block">
+
+<div class="news-letter">
+    <h4 class="text-center"> Join Our Newsletter</h4>
+  <div class="row w-50 marg-center">
+
+     <div class="col-lg-8">  <button> suscribe@gmail.com</button> </div> 
+     <div class="col-lg-4">  <button>Sign Up </button>  </div> 
+</div>
+
+
+</div>
+<div class="row w-50 marg-center footer-icons">
+
+      <img  src="./images/icons/icon-footer (1).png" alt="">
+      <img src="./images/icons/icon-footer (2).png" alt="">
+      <img src="./images/icons/icon-footer (3).png" alt="">
+      <img src="./images/icons/icon-footer (4).png" alt="">
+      <img src="./images/icons/icon-footer (5).png" alt="">
+
+</div>
+
+
+<div class="footer">
+    <div class="footer-inner">
+        <div class="footer-column">
+
+        </div>
+
+
+
+
+    </div>
+</div>
+</div>
+   </section>
+ 
+
