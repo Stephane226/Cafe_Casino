@@ -8,6 +8,17 @@ body{
     background-color:#07041c;
     color:white
 }
+.container{
+   
+        max-width: 1214px;
+}
+img{
+    max-width:100%
+}
+.img-icon{
+    width: 50px;
+    height: 50px;
+}
 /*Home page*/
 .home-block{
     margin:50px auto;
@@ -16,7 +27,7 @@ body{
     border:1px solid rgb(248, 248, 248);
     border-radius: 10px;
     width:100%;
-    padding:20px;
+    padding:33px;
     display:flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -26,7 +37,7 @@ body{
     border:1px solid rgb(248, 248, 248);
     border-radius: 10px;
     width:100%;
-    padding:20px;
+    padding:33px;
 }
 .overview-case{
     width:47%;
@@ -78,6 +89,9 @@ button{
     font-size: 21px;
 }
 
+p{
+    margin:20px 0px
+}
 .right-sidebar ul{
     width: 90%;
     margin: 30px auto;
@@ -186,7 +200,7 @@ button{
     padding: 10px 20px;
     border-radius: 10px;
 }
-.sidebar-row{
+.pros-cons .sidebar-row{
     background-color:#241f43;
     margin: 15px 0px;
 }
@@ -200,20 +214,62 @@ table{
     width:100%
 }
 
-table tr{
+.detail-table table tr{
     height: 40px;
     border-bottom:1px solid white
 }
-table tr:last-child{
+.detail-table table tr:last-child{
     border-bottom: none
 }
-table tr:first-child{
+.detail-table table tr:first-child{
     border-bottom: 2px solid rgb(191, 255, 241)
 }
-table tr td:first-child{
+.detail-table table tr td:first-child{
     padding-left:10px
 }
-table tr td{
+.detail-table table tr td{
     padding-top:10px;
     padding-bottom:10px;
+}
+
+.left-border{
+    border-left:4px solid white;
+    padding-left:30px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin:40px 0px
+}
+
+.ratings i{
+    font-size: 14px;
+    color:yellow
+
+}
+.table-column{
+    display: table;
+}
+.table-column tr {
+	display: table-cell;
+    margin: 20px;
+    width:33%
+  
+}
+.table-column tr td {
+	display: block;
+    height:50px
+}
+.table-column tr th {
+	display: block;
+    min-height:50px;
+    height:auto;
+    margin-bottom: 60px;
+}
+.tr-column-data td{
+    padding: 0px 20px
+}
+.tr-column-data:hover{
+    background-color: #241f43;
+}
+.tr-column-data:hover > th{
+    background-color: #07041c;
 }

@@ -428,7 +428,7 @@
 
 
             <div class="detail-table section-part">
-           <h1>Quoite Module</h1>
+           <h1>Quote Module</h1>
          <div class="">
             <div class="overview-p">
                <p>
@@ -436,6 +436,55 @@
         et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
  mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
                </p>
+
+               <p>
+                  Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+              </p>
+
+              <p class="left-border">
+                 "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+        et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie"
+
+               </p>
+
+               <p>
+                  Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+        et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+ mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+               </p>
+
+               <div class="inner-block">
+               <div class="home-overview-btn">
+              
+                  <div class="row">
+                     <div class="col">
+                    <div class="img-element">
+                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+                    </div>
+                    <h6>21bit</h6>
+                     </div>
+                     <div class="col">
+                     <h6> > 25% of €100 Bonus</h6>
+                     <h6> > Free Spins</h6>
+                     <h6> > 20x Wagerings</h6>
+                     </div>
+                     <div class="col">
+                      <h6> 4,7/10</h6>
+                      <div class="ratings"> 
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      </div>
+                     </div>
+                     <div class="col">
+                        <button>Play Now </button>
+                     </div>
+                  </div>
+               </div>
+            </div>
+              
             </div>
             
 
@@ -444,8 +493,67 @@
 
 
 
+            <div class="section-part">
+           <h1>Comparison Table</h1>
+         <div class="">
+            <div class="overview-p">
+               <p>
+                  Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+        et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+ mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+               </p>
 
+               </div>
+            </div>
 
+            <table class="table-column">
+                <tr>
+                <th>Features </th>
+                
+                  <td> Payement In 24 Hours</td>
+                  <td> Live Casino</td>
+                  <td> Welcome Bonus</td>
+                  <td> Available In Your Country ?</td>
+                  <td> Casino Type</td>
+                </tr>
+
+                <tr class="tr-column-data">
+                <th>
+                    Unibet
+                    <div class="img-element">
+                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+                    </div> 
+
+                </th>
+               
+                  <td>   <i class="fa-solid fa-check"></i></td>
+                  <td>   <i class="fa-solid fa-check"></i></td>
+                  <td> $250</td>
+                  <td>   <i class="fa-solid fa-xmark"></i></td>
+                  <td> Bingo</td>
+                </tr>
+
+                <tr  class="tr-column-data">
+                <th>
+                    Cafe Casino
+
+                      <div class="img-element">
+                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+                    </div>
+              
+               </th>
+              
+                <td>   <i class="fa-solid fa-check"></i></td>
+                <td>   <i class="fa-solid fa-xmark"></i></td>
+                  <td> $550</td>
+                  <td>   <i class="fa-solid fa-xmark"></i></td>
+                  <td> Sport Bettings</td>
+                </tr>
+
+            
+
+            </table>
+            </div>
 
 
 
