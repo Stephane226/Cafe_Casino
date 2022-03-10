@@ -1,3 +1,24 @@
+<section class="slider-section">
+
+<div class="top-banner container">
+
+</div>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section class="home-content">
    <div class="container home-block">
       <div class="row">
@@ -657,8 +678,8 @@
     <h4 class="text-center"> Join Our Newsletter</h4>
   <div class="row w-50 marg-center">
 
-     <div class="col-lg-8">  <button> suscribe@gmail.com</button> </div> 
-     <div class="col-lg-4">  <button>Sign Up </button>  </div> 
+     <div class="col-lg-8">  <button class="classic-btn"> suscribe@gmail.com</button> </div> 
+     <div class="col-lg-4">  <button  class="classic-btn">Sign Up </button>  </div> 
 </div>
 
 
@@ -677,7 +698,50 @@
 <div class="footer">
     <div class="footer-inner">
         <div class="footer-column">
+          <h5>About Us</h5>
+          <ul>
+              <li> Privacy Policy</li>
+              <li> About Us</li>
+              <li> Contact Us</li>
+              <li> Sitemap</li>
+              <li> Sign Up</li>
+          </ul>
+        </div>
 
+
+        <div class="footer-column">
+          <h5>Quick Menu</h5>
+          <ul>
+              <li> Gaming Casino Online</li>
+              <li>Responsible Gaming</li>
+             
+          </ul>
+        </div>
+
+
+        <div class="footer-column">
+          <h5>Contact Detail</h5>
+          <ul>
+              <li>+49 652 544 55</li>
+              <li> try@mail.com</li>
+          
+          </ul>
+        </div>
+
+
+        <div class="footer-column">
+        <div class="img-element">
+                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+        </div>
+         <p>
+         Lorem Ipsum is simply dummy text of th e  is simply dummy text of the  is simply dummy text
+         </p>
+         <div class="social-links">
+             <span><i class="fa-brands fa-facebook"></i></span>
+            
+             <span> <i class="fa-brands fa-twitter"></i></span>
+             <span> <i class="fa-brands fa-instagram"></i> </span>
+         </div>
         </div>
 
 
@@ -685,6 +749,9 @@
 
     </div>
 </div>
+<hr class="footer-line">
+<div class="copy-rights">
+    <p> All Rights Reserved @ NewZelandCasinos.Org</p>
 </div>
    </section>
  
