@@ -66,12 +66,20 @@ img{
 
 .slider-section{
     width:100%;
-    height:600px;
+  
 }
 .top-banner{
     min-height:300px;
     padding:30px 30px 0px 30px;
     background-color:#1a1634;
+    margin-top:50px;
+    box-shadow: rgb(187 187 187 / 10%) 0px 0px 16px;
+    
+}
+.top-banner-bottom{
+    min-height:300px;
+    padding:30px 30px 0px 30px;
+   
     margin-top:50px;
     
 }
@@ -165,10 +173,16 @@ img{
     display: table-cell; width:50%;
 
 }
+.top-banner-bottom .top-banner-inner img{
+    width:80%
+}
 
-
-
-
+.top-banner-bottom .banner-rating{
+    width:auto !important
+}
+.top-banner-bottom .banner-content {
+    width: 90%;
+}
 
 
 

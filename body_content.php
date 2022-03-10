@@ -49,6 +49,65 @@
     </div>
 </div>
 
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="top-banner-bottom container">
+    <div class="banner-content">
+
+    <div class="top-banner-inner">
+     <img src="./images/slide-bottom-img.png" alt="">
+   </div>
+
+
+
+
+    <div class="top-banner-inner banner-rating">
+
+    <div class="top-banner-inner">
+       <h1>50% BONUS UP TO 5mBTC</h1>
+       <h3> + 45 Free Spins </h3>
+
+       <button class="classic-btn">Depozit</button>
+
+       </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+
 </section>
 
 
