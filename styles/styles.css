@@ -71,16 +71,16 @@ img{
 .top-banner{
     min-height:300px;
     padding:30px 30px 0px 30px;
-    background-color:#1a1634;
+    background-color:#241f46;
     margin-top:50px;
-    box-shadow: rgb(187 187 187 / 10%) 0px 0px 16px;
+  
     
 }
 .top-banner-bottom{
     min-height:300px;
     padding:30px 30px 0px 30px;
    
-    margin-top:50px;
+    margin-top:5px;
     
 }
 .banner-content{
@@ -91,9 +91,7 @@ img{
     display:block
 }
 
-.top-banner button{
-    width:140px
-}
+
 .banner-texts{
    margin-top:30px;
    margin-bottom:10px;
@@ -117,6 +115,9 @@ img{
     border:1px solid rgb(194, 194, 194);
     border-radius:15px;
 
+}
+.home-content{
+    border-top:1px solid #2b293d
 }
 
 .banner-rating{
@@ -183,12 +184,29 @@ img{
 .top-banner-bottom .banner-content {
     width: 90%;
 }
+.head-section{
+    background-image: url(../images/home-bg.jfif);
+    width: 100%;
+    background-size: cover;
+    padding-top: 10px;
+}
 
+.head-nav{
+    width:100%;
+    background-color:#07041c;
+    padding:10px 0px
+}
 
+.top-banner-bottom .robot-pic{
+  position:relative
+}
+.rbt-foot{
+    position: absolute;
+    display: block;
+    bottom: -7px;
+    left: -18px;
 
-
-
-
+}
 
 
 
@@ -250,9 +268,9 @@ img{
 }
 
 .classic-btn{
-    width: 100%;
+    width: auto;
     background-color: transparent;
-    padding: 12px 10px;
+    padding: 10px 49px;
     text-align: center;
     font-size: 14px;
     text-transform: uppercase;

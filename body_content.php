@@ -1,4 +1,4 @@
-<section class="slider-section">
+<section class="slider-section head-section">
 
 <div class="top-banner container">
     <div class="banner-content">
@@ -74,8 +74,9 @@
 <div class="top-banner-bottom container">
     <div class="banner-content">
 
-    <div class="top-banner-inner">
+    <div class="top-banner-inner robot-pic">
      <img src="./images/slide-bottom-img.png" alt="">
+     <img class="rbt-foot" src="./images/foot.png" alt="">
    </div>
 
 
@@ -109,6 +110,7 @@
 </div>
 
 </section>
+
 
 
 

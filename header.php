@@ -1,3 +1,5 @@
+
+    <section class="head-nav"> 
 <header class="container">
 <div class="header-top">
 <div class="logo">
@@ -19,7 +21,7 @@
       <a class="nav-link" href="#">Mobile Casinos</a>
       <a class="nav-link" href="#">New Danish Casinos</a>
       <a class="nav-link" href="#">Payement Methods</a>
-      <a class="nav-link classic-btn" href="#"> Sign Up</a>
+      <a class="nav-link classic-btn" href="#"> Sign Up Now</a>
       
     </div>
   </div>
@@ -29,3 +31,4 @@
 
 
 </header>
+</section>
