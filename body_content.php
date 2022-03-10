@@ -305,6 +305,152 @@
                </p>
             </div>
             </div>
+              <div class="pros-cons">
+           
+            <div class="row">
+         <div class="col-lg-6">
+                   <div class="pros-title p-c-title">
+                       <h3>Pros</h3>
+                   </div>
+
+                   <div class="row sidebar-row">
+                  <div class="col-lg-2">
+                  <i class="fa-solid fa-check"></i>
+                  </div>
+                  <div class="col-lg-10">
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                  </div>
+               </div>
+
+
+               <div class="row sidebar-row">
+                  <div class="col-lg-2">
+                  <i class="fa-solid fa-check"></i>
+                  </div>
+                  <div class="col-lg-10">
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                  </div>
+               </div>
+
+
+
+               <div class="row sidebar-row">
+                  <div class="col-lg-2">
+                  <i class="fa-solid fa-check"></i>
+                  </div>
+                  <div class="col-lg-10">
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                  </div>
+               </div>
+       </div>
+
+
+
+         <div class="col-lg-6">
+         <div class="cons-title p-c-title">
+                       <h3>Cons</h3>
+                       </div>
+                       <div class="row sidebar-row">
+                  <div class="col-lg-2">
+                    <i class="fa-solid fa-xmark"></i>
+                  </div>
+                  <div class="col-lg-10">
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                  </div>
+               </div>
+
+               <div class="row sidebar-row">
+                  <div class="col-lg-2">
+                    <i class="fa-solid fa-xmark"></i>
+                  </div>
+                  <div class="col-lg-10">
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                  </div>
+               </div>
+
+               <div class="row sidebar-row">
+                  <div class="col-lg-2">
+                    <i class="fa-solid fa-xmark"></i>
+                  </div>
+                  <div class="col-lg-10">
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                  </div>
+               </div>
+                 
+         </div>
+           </div>
+
+
+        <div class="detail-table section-part">
+           <h1>Detail Table Excel Style</h1>
+         <div class="">
+            <div class="overview-p">
+               <p>
+                  Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+        et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+ mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+               </p>
+            </div>
+
+            <table class="table-excel">
+                <tr>  
+                    <th>Slot </th>
+                    <th>Game Provider </th>
+                    <th>Bigest Win </th>
+                    <th>Payline Lines </th>
+                </tr>
+                <tr>  
+                    <td>  Lorem Ipsum </td>
+                    <td>  Lorem Ipsum </td>
+                    <td> $80 </td>
+                    <td> 6</td>
+                </tr>
+                <tr>  
+                    <td>  Lorem Ipsum </td>
+                    <td>  Lorem Ipsum </td>
+                    <td> $1200 </td>
+                    <td>  1</td>
+                </tr>
+                <tr>  
+                    <td>  Lorem Ipsum </td>
+                    <td>  Lorem Ipsum </td>
+                    <td>  $500 </td>
+                    <td> 4 </td>
+                </tr>
+            
+            </table>
+            </div>
+            </div>
+
+
+
+
+
+
+            <div class="detail-table section-part">
+           <h1>Quoite Module</h1>
+         <div class="">
+            <div class="overview-p">
+               <p>
+                  Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+        et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+ mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie
+               </p>
+            </div>
+            
+
+            </div>
+            </div>
+
+
+
+
+
+
+
+
+       
+           </div>
             </div>
 
 
