@@ -10,7 +10,7 @@ body{
 }
 .container{
    
-        max-width: 1214px;
+        max-width: 1150px;
 }
 img{
     max-width:100%
@@ -70,9 +70,102 @@ img{
 }
 .top-banner{
     min-height:300px;
-    padding:50px;
-    background-color:black
+    padding:30px 30px 0px 30px;
+    background-color:#1a1634;
+    margin-top:50px;
+    
 }
+.banner-content{
+    display:flex;
+    width:80%
+}
+.banner-texts span{
+    display:block
+}
+
+.top-banner button{
+    width:140px
+}
+.banner-texts{
+   margin-top:30px;
+   margin-bottom:10px;
+}
+.top-banner {
+    position:relative
+}
+.slide-icons img{
+    height:15px;
+    margin-top: -7px;
+   
+
+}
+.slide-icons{
+    margin-top:20px;
+}
+.slide-icons span{
+    background-color:#1a1634;
+    margin:0px 10px;
+    padding:2px 10px;
+    border:1px solid rgb(194, 194, 194);
+    border-radius:15px;
+
+}
+
+.banner-rating{
+    background-image: url(../images/background-light.png);
+    background-size: cover;
+    padding: 110px;
+  
+    margin-top: -57px;
+    background-repeat: no-repeat;
+    width: 450px;
+
+  
+}
+.banner-rating img{
+    width:210px
+}
+
+
+.slide-ratings{
+    margin-left:70px;
+    margin-top:20px
+}
+
+.banner-rating{
+    position:relative
+}
+.index-ratings{
+    width:140px !important;
+    position: absolute;
+    right: -23px;
+    top: -43px;
+    
+}
+
+.back-light{
+    position:absolute;
+    display: table
+
+}
+.back-light {
+    background-image: url(../images/background-light.png);
+    background-size: cover;
+    opacity: 0.5;
+    padding: 180px;
+    position: absolute;
+    right: -100px;
+    top: -20px;
+    margin-top: -57px;
+    background-repeat: no-repeat;
+    width: 458px;
+}
+
+.bg-opacity{
+    display: table-cell; width:50%;
+
+}
+
 
 
 
@@ -427,6 +520,7 @@ table{
     margin:0px 20px;
 
 }
+
 .footer{
     margin:40px 0px;
 }

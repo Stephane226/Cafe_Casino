@@ -1,7 +1,52 @@
 <section class="slider-section">
 
 <div class="top-banner container">
+    <div class="banner-content">
+   <div class="top-banner-inner">
+       <h1>CAFE CASINO</h1>
 
+       <div class="banner-texts">
+           <span> > 250% up to 100€ Bonus</span>
+           <span> > Free Spins</span>
+           <span> > 20x Wagering</span>
+       </div>
+
+       <button class="classic-btn">Play Now</button>
+
+       <div class="row slide-icons">
+
+ <span> <img  src="./images/icons/icon-footer (2).png" alt="">  </span>
+ <span> <img  src="./images/icons/icon-footer (3).png" alt="">  </span>
+
+  <span> <img  src="./images/icons/icon-footer (5).png" alt="">  </span>
+</div>
+   </div>
+
+
+
+   <div class="top-banner-inner banner-rating">
+
+       <img src="./images/cafe-casino.png" alt="">
+       <div class="col slide-ratings">
+                      <h6> 4,7/10</h6>
+                      <div class="ratings"> 
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      </div>
+        <img class="index-ratings" src="./images/index-ratings.png" alt="">
+
+    </div>
+
+
+
+    </div>
+
+    <div class="back-light">
+     
+    </div>
 </div>
 
 </section>
