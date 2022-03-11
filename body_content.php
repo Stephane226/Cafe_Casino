@@ -1,9 +1,10 @@
 <section class="slider-section head-section">
 <div class="bg-top-header container">
 <div class="top-banner">
+<h1 class="sm-block">CAFE CASINO</h1>
     <div class="banner-content">
    <div class="top-banner-inner">
-       <h1>CAFE CASINO</h1>
+       <h1 class="sm-none">CAFE CASINO</h1>
 
        <div class="banner-texts">
            <span>  <i class="fa-solid fa-chevron-right"></i> 250% up to 100  € Bonus</span>
@@ -11,7 +12,7 @@
            <span><i class="fa-solid fa-chevron-right"></i> 20x Wagering</span>
        </div>
 
-       <button class="classic-btn">Play Now</button>
+       <button class="classic-btn xs-100">Play Now</button>
 
        <div class="row slide-icons">
 
@@ -241,9 +242,9 @@
                <li>Lorem Ipsum est simplement </li>
                <li>Lorem Ipsum est simplement </li>
             </ul>
-            <h4> Best Bonnuse</h4>
-            <div class="right-side-inner">
-               <div class="row sidebar-row">
+            <h4 class="sm-none"> Best Bonnuse</h4>
+            <div class="right-side-inner sm-none">
+               <div class="row sidebar-row sm-none">
                   <div class="col-lg-3">
                      <img src="./images/sst.png" alt="">
                   </div>

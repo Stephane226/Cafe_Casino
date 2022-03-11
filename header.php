@@ -10,7 +10,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light">
-  <a class="navbar-brand" href="#">Navbar</a>
+  <a class="navbar-brand" href="#"></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
    <div class="menu-btn"> </div>
    <div class="menu-btn"> </div>

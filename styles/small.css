@@ -1,3 +1,143 @@
+body, html {
+    width: 100%; 
+    overflow-x:hidden
+  }
+  
+h1{
+    font-size: 24px;
+}
+  .banner-content {
+    display: flex;
+    width: 105%;
+}
 .top-banner::before{
-    content:none
+    display:none
+}
+.bg-top-header:before {
+    content: "";
+    background-image: url(../images/bg-top-3.png);
+    position: absolute;
+    top: 0px;
+    margin: 0 auto;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.18;
+    width:0px;
+    background-repeat: repeat-x;
+}
+
+.top-banner .banner-rating {
+ 
+     padding: 0px;
+     margin-top: 0px; 
+    background-repeat: no-repeat;
+  width: auto; 
+}
+.top-banner .index-ratings{
+    display:none
+}
+.top-banner {
+    background-color: transparent;
+    padding-left:10px !important;
+    padding-right:0px;
+    position:relative
+}
+.sm-block{
+    display:block
+}
+.sm-none{
+    display:none
+}
+
+
+.xs-100{
+    width:100%
+}
+
+.top-banner .classic-btn{
+    position:absolute;
+    margin-top:40px
+}  
+.top-banner-inner .slide-icons{
+    position:absolute;
+    margin-top:100px;
+} 
+.top-banner-bottom {
+   
+    margin-top: 80px;
+    min-height: 393px;
+    padding:20px 0px
+} 
+
+
+.top-banner-bottom .banner-rating {
+    background-image: none;
+    background-size: cover;
+    padding: 0px;
+    margin-top: -57px;
+    background-repeat: no-repeat;
+    width: 450px;
+}
+.top-banner-bottom .banner-content {
+    width: 100%;
+}
+.top-banner-bottom{
+    position:relative;
+}  
+
+.top-banner-bottom .curencies-banner{
+    position:absolute;
+    margin-top:70px;
+    left:0;
+    width:100%
+} 
+.banner-rating {
+    position: unset;
+}
+.ico-width {
+    width: 29px !important;
+}
+.rbt-ico-1 {
+   
+    bottom: 6px;
+    width: 55% !important;
+    left: 15px;
+}
+.top-banner {
+  
+    padding: 0px 30px 0px 30px;
+    
+    border-radius: 10px;
+    margin-top: 7px;
+}
+.back-light {
+  
+    display: none;
+}
+
+.navbar-toggler {
+    padding: 0.25rem 0rem;
+    
+}
+.navbar .classic-btn {
+    height: auto;
+    width: 100%;
+}
+.navbar .navbar-collapse{
+    margin-top: 18px;
+}
+.overview-case {
+    width: 100%;
+}
+.inner-block h1{
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 14px;
+}
+.right-sidebar ul {
+    width: 100%;
+    margin: 30px auto;
 }

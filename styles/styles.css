@@ -189,7 +189,9 @@ img{
 .banner-rating img{
     width:210px
 }
-
+.sm-none{
+    display:none
+}
 
 .slide-ratings{
  
