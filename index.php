@@ -8,8 +8,10 @@
     <link rel="stylesheet" href="./styles/fontawesome/css/all.css" >
 
     <link rel="stylesheet" href="./styles/styles.css">
-	<link rel="stylesheet" media="screen and (min-width: 50px) and (max-width: 900px)" href="./styles/small.css">
-    <title>Document</title>
+	<link rel="stylesheet" media="screen and (min-width: 50px) and (max-width: 1100px)" href="./styles/small.css">
+	<link rel="stylesheet" media="screen and (min-width: 450px) and (max-width: 1100px)" href="./styles/sm-mid.css">
+
+	<title>Document</title>
 </head>
 <body>
     

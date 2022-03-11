@@ -3,8 +3,8 @@
 <header class="container">
 <div class="header-top">
 <div class="logo">
-<span class="logo-text">21</span>
-<span class="logo-sit">sit</span>
+<span class="logo-text">MS</span>
+<span class="logo-sit">.</span>
 </div>
 
 

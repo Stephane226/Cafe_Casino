@@ -57,7 +57,8 @@ h1{
 
 .top-banner .classic-btn{
     position:absolute;
-    margin-top:40px
+    margin-top:40px;
+    margin-left: -10px;
 }  
 .top-banner-inner .slide-icons{
     position:absolute;
@@ -100,7 +101,7 @@ h1{
 }
 .rbt-ico-1 {
    
-    bottom: 6px;
+    bottom: 25px;
     width: 55% !important;
     left: 15px;
 }
@@ -140,4 +141,79 @@ h1{
 .right-sidebar ul {
     width: 100%;
     margin: 30px auto;
+}
+.marg-5{
+    margin:5px 0px
+}
+.inner-block-text {
+    padding: 30px;
+    max-width: 92%;
+    margin: 30px auto !important;
+    background-color: #241f43;
+    border-radius: 8px;
+}
+
+.testimonial-title{
+    width:100%
+}
+.testimonial-title .col-lg-4 {
+    width:30%
+}
+.testimonial-title .col-lg-8 {
+    width:70%
+}
+
+ .footer-content .col-lg-8{
+    width:100% !important;
+}
+.footer-content .w-50 {
+    width:100% !important;
+} 
+.footer-content  .classic-btn{
+    width:100%;
+    margin-bottom:10px
+}
+
+.footer-column:nth-child(1) { order: 3; }
+.footer-column:nth-child(2) { order: 2; }
+.footer-column:nth-child(3) { order: 4; }
+.footer-column:nth-child(4) { order: 1; }
+
+.footer-column {
+    max-width: 100% !important;
+    text-align:center
+}
+ .footer-inner .col-sm-5{
+    margin:20px 0px;
+    width: 47%  !important;
+    text-align:left
+}
+
+
+.contact-s li:before {
+    content: none !important;
+    
+}
+
+.table-sm{
+    background-color:#241f43;
+    border-radius:10px;
+    margin-top:10px
+}
+
+.tr-column-data:hover > th {
+    background-color: #241f43;
+}
+
+.top-banner h1{
+    text-align:Center;
+    font-size:30px
+}
+.head-nav {
+    
+    background-color: #0f0b26
+}
+.head-nav {
+    
+     padding: 0px 0px; 
 }

@@ -3,6 +3,11 @@
     padding:0;
     color:white
 }
+body, html {
+    width: 100%; 
+    overflow-x:hidden
+  }
+  
 
 ::-webkit-scrollbar {
     width: 10px;
@@ -189,9 +194,7 @@ img{
 .banner-rating img{
     width:210px
 }
-.sm-none{
-    display:none
-}
+
 
 .slide-ratings{
  
@@ -629,6 +632,9 @@ table{
     color:#ecb23b
 
 }
+h1{
+    font-weight: 900;
+}
 .table-column{
     display: table;
 }
@@ -659,10 +665,12 @@ table{
 }
 
 
-
+.sm-block{
+    display:none
+}
 .question {
     background-color: #07041c;
-    border:1px solid white;
+    border:1px solid #514a86;
     color: black;
     position: relative;
     margin-top: 20px;
@@ -750,7 +758,7 @@ table{
 
 }
 .footer-column{
-    max-width:30%
+    max-width:23%
 }
 .footer-column li{
     list-style: none;
@@ -769,3 +777,4 @@ hr.footer-line {
   .copy-rights{
       text-align:center
   }
+

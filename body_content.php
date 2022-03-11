@@ -281,8 +281,8 @@
                   </div>
                </div>
             </div>
-            <h4> Latest News</h4>
-            <div class="right-side-inner latest-news">
+            <h4 class="sm-none"> Latest News</h4>
+            <div class="right-side-inner latest-news sm-none">
                <div class="row sidebar-row">
                   <div class="col-lg-3">
                      <img src="./images/news (1).jpg" alt="">
@@ -354,13 +354,13 @@
                <div class="home-overview-btn borders-line">
                   <h5 class="f-weight-900 text-uppercase" >Players Also Like:</h5>
                   <div class="row">
-                     <div class="col">
+                     <div class="col-lg-4 marg-5 col-sm-12">
                         <button class="classic-btn bg-btn-aqua"> <span class=" txt--gradient f-weight-700"> Lorem Ipsum est </span> </button>
                      </div>
-                     <div class="col">
+                     <div class="col-lg-4 marg-5 col-sm-12">
                         <button class="classic-btn bg-btn-aqua"><span class=" txt--gradient f-weight-700"> Lorem Ipsum est </span>  </button>
                      </div>
-                     <div class="col">
+                     <div class="col-lg-4 marg-5 col-sm-12">
                         <button class="classic-btn bg-btn-aqua"><span class=" txt--gradient f-weight-700"> Lorem Ipsum est </span>  </button>
                      </div>
                   </div>
@@ -602,7 +602,7 @@ simplement est simplement all  Lorem Ipsum  for est simplement est in the all</s
                </p>
 
                <div class="inner-block">
-               <div class="home-overview-btn borders-line">
+               <div class="home-overview-btn borders-line sm-none">
               
                   <div class="row">
                      <div class="col">
@@ -654,7 +654,7 @@ simplement est simplement all  Lorem Ipsum  for est simplement est in the all</s
                </div>
             </div>
 
-            <table class="table-column">
+            <table class="table-column sm-none">
                 <tr>
                 <th>Features </th>
                 
@@ -680,6 +680,83 @@ simplement est simplement all  Lorem Ipsum  for est simplement est in the all</s
                   <td>   <i class="fa-solid fa-xmark"></i></td>
                   <td> Bingo</td>
                 </tr>
+
+                <tr  class="tr-column-data">
+                <th>
+                    Cafe Casino
+
+                      <div class="img-element">
+                        <img class="img-icon" src="./images/cafe-casino.png" alt="">
+                    </div>
+              
+               </th>
+              
+                <td>   <i class="fa-solid fa-check"></i></td>
+                <td>   <i class="fa-solid fa-xmark"></i></td>
+                  <td> $550</td>
+                  <td>   <i class="fa-solid fa-xmark"></i></td>
+                  <td> Sport Bettings</td>
+                </tr>
+
+            
+
+            </table>
+
+
+
+
+
+
+
+            
+            <table class="table-column sm-block table-sm">
+                <tr>
+                <th>Features </th>
+                
+                  <td> Payement In 24 Hours</td>
+                  <td> Live Casino</td>
+                  <td> Welcome Bonus</td>
+                  <td> Available In Your Country ?</td>
+                  <td> Casino Type</td>
+                </tr>
+
+                <tr class="tr-column-data">
+                <th>
+                    Unibet
+                    <div class="img-element">
+                        <img class="img-icon" src="./images/unibet.png" alt="">
+                    </div> 
+
+                </th>
+               
+                  <td>   <i class="fa-solid fa-check"></i></td>
+                  <td>   <i class="fa-solid fa-check"></i></td>
+                  <td> $250</td>
+                  <td>   <i class="fa-solid fa-xmark"></i></td>
+                  <td> Bingo</td>
+                </tr>
+
+              
+            
+
+            </table>
+
+
+
+
+            
+            <table class="table-column sm-block table-sm">
+                <tr>
+                <th>Features </th>
+                
+                  <td> Payement In 24 Hours</td>
+                  <td> Live Casino</td>
+                  <td> Welcome Bonus</td>
+                  <td> Available In Your Country ?</td>
+                  <td> Casino Type</td>
+                </tr>
+
+                
 
                 <tr  class="tr-column-data">
                 <th>
@@ -824,7 +901,7 @@ simplement est simplement all  Lorem Ipsum  for est simplement est in the all</s
 
 <div class="footer">
     <div class="footer-inner">
-        <div class="footer-column">
+        <div class="footer-column col-sm-5">
           <h5>About Us</h5>
           <ul>
               <li> Privacy Policy</li>
@@ -836,7 +913,7 @@ simplement est simplement all  Lorem Ipsum  for est simplement est in the all</s
         </div>
 
 
-        <div class="footer-column">
+        <div class="footer-column col-sm-5">
           <h5>Quick Menu</h5>
           <ul>
               <li> Gaming Casino Online</li>
@@ -846,7 +923,7 @@ simplement est simplement all  Lorem Ipsum  for est simplement est in the all</s
         </div>
 
 
-        <div class="footer-column">
+        <div class="footer-column col-sm-12 contact-s">
           <h5>Contact Detail</h5>
           <ul>
               <li>+49 652 544 55</li>
@@ -856,7 +933,7 @@ simplement est simplement all  Lorem Ipsum  for est simplement est in the all</s
         </div>
 
 
-        <div class="footer-column">
+        <div class="footer-column col-sm-12">
         <div class="img-element">
                         <img class="img-icon" src="./images/unnamed (3).png" alt="">
         </div>
