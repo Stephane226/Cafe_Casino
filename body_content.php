@@ -351,16 +351,16 @@
 
             <div class="inner-block">
                <div class="home-overview-btn borders-line">
-                  <h5>Players Also Like</h5>
+                  <h5 class="f-weight-900 text-uppercase" >Players Also Like:</h5>
                   <div class="row">
                      <div class="col">
-                        <button class="classic-btn bg-btn-black">Lorem Ipsum est </button>
+                        <button class="classic-btn bg-btn-aqua"> <span class=" txt--gradient f-weight-700"> Lorem Ipsum est </span> </button>
                      </div>
                      <div class="col">
-                        <button class="classic-btn bg-btn-black">Lorem Ipsum est </button>
+                        <button class="classic-btn bg-btn-aqua"><span class=" txt--gradient f-weight-700"> Lorem Ipsum est </span>  </button>
                      </div>
                      <div class="col">
-                        <button class="classic-btn bg-btn-black">Lorem Ipsum est </button>
+                        <button class="classic-btn bg-btn-aqua"><span class=" txt--gradient f-weight-700"> Lorem Ipsum est </span>  </button>
                      </div>
                   </div>
                </div>
@@ -458,7 +458,7 @@
                    </div>
 
                    <div class="row sidebar-row">
-                  <div class="col-lg-2">
+                  <div class="col-lg-1">
                   <i class="fa-solid fa-check"></i>
                   </div>
                   <div class="col-lg-10">
@@ -468,18 +468,19 @@
 
 
                <div class="row sidebar-row">
-                  <div class="col-lg-2">
+                  <div class="col-lg-1">
                   <i class="fa-solid fa-check"></i>
                   </div>
                   <div class="col-lg-10">
-                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement   Ipsum for est simplement est in the all
+ all  Lorem Ipsum  for est simplement est in the all</span> 
                   </div>
                </div>
 
 
 
                <div class="row sidebar-row">
-                  <div class="col-lg-2">
+                  <div class="col-lg-1">
                   <i class="fa-solid fa-check"></i>
                   </div>
                   <div class="col-lg-10">
@@ -495,7 +496,7 @@
                        <h3>Cons</h3>
                        </div>
                        <div class="row sidebar-row">
-                  <div class="col-lg-2">
+                  <div class="col-lg-1">
                     <i class="fa-solid fa-xmark"></i>
                   </div>
                   <div class="col-lg-10">
@@ -504,16 +505,18 @@
                </div>
 
                <div class="row sidebar-row">
-                  <div class="col-lg-2">
+                  <div class="col-lg-1">
                     <i class="fa-solid fa-xmark"></i>
                   </div>
                   <div class="col-lg-10">
-                     <span class="text-desc">For simplement  Lorem Ipsum  for est simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
+                     <span class="text-desc">For simplement  Lorem Ipsum  for est   Ipsum for est simplement est in the all
+                     Ipsum for est simplement est in the all
+simplement est simplement all  Lorem Ipsum  for est simplement est in the all</span> 
                   </div>
                </div>
 
                <div class="row sidebar-row">
-                  <div class="col-lg-2">
+                  <div class="col-lg-1">
                     <i class="fa-solid fa-xmark"></i>
                   </div>
                   <div class="col-lg-10">
@@ -598,7 +601,7 @@
                </p>
 
                <div class="inner-block">
-               <div class="home-overview-btn">
+               <div class="home-overview-btn borders-line">
               
                   <div class="row">
                      <div class="col">
@@ -637,7 +640,7 @@
 
 
 
-            <div class="section-part">
+            <div class="section-part ">
            <h1>Comparison Table</h1>
          <div class="">
             <div class="overview-p">
@@ -665,7 +668,7 @@
                 <th>
                     Unibet
                     <div class="img-element">
-                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+                        <img class="img-icon" src="./images/unibet.png" alt="">
                     </div> 
 
                 </th>
@@ -682,7 +685,7 @@
                     Cafe Casino
 
                       <div class="img-element">
-                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+                        <img class="img-icon" src="./images/cafe-casino.png" alt="">
                     </div>
               
                </th>
@@ -754,7 +757,7 @@
                      <div class="row testimonial-title">
 
                      <div class=" col-lg-4 img-element">
-                        <img class="img-icon" src="./images/unnamed (3).png" alt="">
+                        <img class="img-icon img-round" src="./images/masaaki-stephane.jfif" alt="">
                     </div>
 
                     <div class="col-lg-8">
@@ -813,7 +816,7 @@
       <img src="./images/icons/icon-footer (2).png" alt="">
       <img src="./images/icons/icon-footer (3).png" alt="">
       <img src="./images/icons/icon-footer (4).png" alt="">
-      <img src="./images/icons/icon-footer (5).png" alt="">
+
 
 </div>
 
@@ -860,10 +863,10 @@
          Lorem Ipsum is simply dummy text of th e  is simply dummy text of the  is simply dummy text
          </p>
          <div class="social-links">
-             <span><i class="fa-brands fa-facebook"></i></span>
+             <span><i class="fa-brands fa-facebook txt--gradient "></i></span>
             
-             <span> <i class="fa-brands fa-twitter"></i></span>
-             <span> <i class="fa-brands fa-instagram"></i> </span>
+             <span> <i class="fa-brands fa-twitter txt--gradient "></i></span>
+             <span> <i class="fa-brands fa-instagram txt--gradient "></i> </span>
          </div>
         </div>
 

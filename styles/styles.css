@@ -15,7 +15,7 @@
    
 
   ::-webkit-scrollbar-thumb {
-    background: rgb(189, 189, 189); 
+    background: #bebebe; 
   }
   
 
@@ -365,10 +365,23 @@ img{
     box-shadow: 2px 1000px 1px #07041c inset !important;  
 
 }
+.f-weight-700{
+    font-weight: 700 !important;
+}
+.f-weight-900{
+    font-weight: 900 !important;
+}
 .m-left{
     margin-left: 5px;
 }
+.txt--gradient{ 
 
+    background-image: linear-gradient(to right, #79d0f2, #e790ff);
+    color: rgba(0, 0, 0, 0);
+    -webkit-background-clip: text;
+  
+    position: relative;
+}
 
 
 
@@ -427,7 +440,6 @@ img{
     border-radius: 20px;
     border: 1px solid white;
 }
-
 
 
 .section-part{
@@ -573,10 +585,12 @@ p{
     margin: 15px 0px;
 }
 .pros-cons .fa-xmark{
-    color:#fd387f
+    color:#fd387f;
+    font-size:13px
 }
 .pros-cons .fa-check{
-    color:#00bb83
+    color:#00bb83;
+    font-size:13px
 }
 table{
     width:100%
@@ -671,6 +685,14 @@ table{
     padding: 25px;
     text-align: justify;
 }
+.img-round{
+    border-radius:50%
+}
+.tr-column-data .img-icon {
+    width: auto !important;
+    height: 35px !important;
+    margin-top:10px;
+}
 .arrow {
     background-image: url(https://png.pngtree.com/svg/20160818/78287d069c.svg);
     width: 20px;
@@ -679,7 +701,10 @@ table{
     background-repeat: no-repeat;
     position: absolute;
     top: 15px;
+    background-color: #b7b7b7;
+    border-radius: 50%;
     right: 10px;
+    padding: 12px;
 }
 .arrow-active{
 	transform: rotate(180deg);
