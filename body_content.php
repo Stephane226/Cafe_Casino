@@ -1,14 +1,14 @@
 <section class="slider-section head-section">
-
-<div class="top-banner container">
+<div class="bg-top-header container">
+<div class="top-banner">
     <div class="banner-content">
    <div class="top-banner-inner">
        <h1>CAFE CASINO</h1>
 
        <div class="banner-texts">
-           <span> > 250% up to 100€ Bonus</span>
-           <span> > Free Spins</span>
-           <span> > 20x Wagering</span>
+           <span>  <i class="fa-solid fa-chevron-right"></i> 250% up to 100  € Bonus</span>
+           <span>  <i class="fa-solid fa-chevron-right"></i> Free Spins</span>
+           <span><i class="fa-solid fa-chevron-right"></i> 20x Wagering</span>
        </div>
 
        <button class="classic-btn">Play Now</button>
@@ -76,7 +76,12 @@
 
     <div class="top-banner-inner robot-pic">
      <img src="./images/slide-bottom-img.png" alt="">
-     <img class="rbt-foot" src="./images/foot.png" alt="">
+     <img class="rbt-side rbt-ico-1" src="./images/foot.png" alt="">
+
+     <img class="rbt-side rbt-ico-2 ico-width" src="./images/btc-pic (1).png" alt="">
+     <img class="rbt-side rbt-ico-3 ico-width" src="./images/btc-pic (2).png" alt="">
+     <img class="rbt-side rbt-ico-4 ico-width" src="./images/btc-pic (4).png" alt="">
+     <img class="rbt-side rbt-ico-5 ico-width" src="./images/btc-pic (3).png" alt="">
    </div>
 
 
@@ -89,6 +94,18 @@
        <h3> + 45 Free Spins </h3>
 
        <button class="classic-btn">Depozit</button>
+
+       <div class="curencies-banner">
+           <span> <i class="fa-brands fa-bitcoin"></i> <span>ETH</span> </span>
+           <span> <i class="fa-solid fa-bitcoin-sign"></i>  <span>BTC</span></span>
+           <span> <i class="fa-solid fa-dollar-sign"></i>  <span>NFT</span></span>
+           <span> <i class="fa-brands fa-btc"></i> <span>PLC</span></span>
+           <span> <i class="fa-solid fa-hryvnia-sign"></i> <span>BTC</span></span>
+           <span> <i class="fa-brands fa-gg"></i> <span>FGV</span></span>
+           <span> <i class="fa-solid fa-bitcoin-sign"></i>  <span>OKL</span></span>
+           <span> <i class="fa-solid fa-chart-pie"></i> <span>BTC</span></span>
+           <span><i class="fa-solid fa-scale-unbalanced"></i> <span>UFC</span></span>
+       </div>
 
        </div>
 
@@ -108,7 +125,7 @@
 
 
 </div>
-
+</div>
 </section>
 
 
@@ -131,7 +148,7 @@
          <div class="col-lg-8">
             <div class="inner-block">
                <h1>Overview & Details</h1>
-               <div class="home-overview">
+               <div class="home-overview borders-line">
                   <div class="overview-case">
                      <h6>License</h6>
                      <span> Vuracao</span>
@@ -165,7 +182,7 @@
                </div>
                <div class="inner-block">
                   <h1>Bonus Information</h1>
-                  <div class="home-overview">
+                  <div class="home-overview borders-line">
                      <div class="overview-case">
                         <h6>First Deposit Bonus</h6>
                         <span>> 100% to €300</span>
@@ -199,7 +216,7 @@
                </div>
                <div class="inner-block">
                   <h1>Payement Mehtods</h1>
-                  <div class="home-overview">
+                  <div class="home-overview borders-line">
                      <div class="overview-case">
                         <h6>Depositing Method</h6>
                         <span> French, English, Germain, Danish, Polish</span>
@@ -228,38 +245,38 @@
             <div class="right-side-inner">
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/sst.png" alt="">
                   </div>
                   <div class="col-lg-5">
-                     <h6> Bet At Home </h6>
+                     <h6>SST </h6>
                      <span>  100% up to €300 </span> 
                   </div>
                   <div class="col-lg-4">
-                     <button> join</button>
+                     <button class="classic-btn bg-btn-aqua"> join</button>
                   </div>
                </div>
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/bah.png" alt="">
                   </div>
                   <div class="col-lg-5">
                      <h6> Bet At Home </h6>
                      <span>  100% up to €300 </span> 
                   </div>
                   <div class="col-lg-4">
-                     <button> join</button>
+                     <button  class="classic-btn bg-btn-aqua"> join</button>
                   </div>
                </div>
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/bwin.png" alt="">
                   </div>
                   <div class="col-lg-5">
                      <h6> Bet At Home </h6>
                      <span>  100% up to €300 </span> 
                   </div>
                   <div class="col-lg-4">
-                     <button> join</button>
+                     <button  class="classic-btn bg-btn-aqua"> join</button>
                   </div>
                </div>
             </div>
@@ -267,7 +284,7 @@
             <div class="right-side-inner latest-news">
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/news (1).jpg" alt="">
                   </div>
                   <div class="col-lg-9">
                      <span class="text-desc">  Lorem Ipsum est simplement for all</span> 
@@ -275,7 +292,7 @@
                </div>
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/news (2).jfif" alt="">
                   </div>
                   <div class="col-lg-9">
                      <span class="text-desc">  Lorem Ipsum est simplement for est simplement all</span> 
@@ -283,7 +300,7 @@
                </div>
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/news (3).jfif" alt="">
                   </div>
                   <div class="col-lg-9">
                      <span class="text-desc">  Lorem Ipsum est simplement for est simplement est simplement all</span> 
@@ -291,7 +308,7 @@
                </div>
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/news (2).jfif" alt="">
                   </div>
                   <div class="col-lg-9">
                      <span class="text-desc">  Lorem Ipsum est simplement for est est simplement all</span> 
@@ -299,7 +316,7 @@
                </div>
                <div class="row sidebar-row">
                   <div class="col-lg-3">
-                     <img src="./images/unnamed (3).png" alt="">
+                     <img src="./images/news (1).jfif" alt="">
                   </div>
                   <div class="col-lg-9">
                      <span class="text-desc">  Lorem Ipsum  for est simplement est simplement all</span> 
@@ -333,17 +350,17 @@
             </div>
 
             <div class="inner-block">
-               <div class="home-overview-btn">
+               <div class="home-overview-btn borders-line">
                   <h5>Players Also Like</h5>
                   <div class="row">
                      <div class="col">
-                        <button>Lorem Ipsum est </button>
+                        <button class="classic-btn bg-btn-black">Lorem Ipsum est </button>
                      </div>
                      <div class="col">
-                        <button>Lorem Ipsum est </button>
+                        <button class="classic-btn bg-btn-black">Lorem Ipsum est </button>
                      </div>
                      <div class="col">
-                        <button>Lorem Ipsum est </button>
+                        <button class="classic-btn bg-btn-black">Lorem Ipsum est </button>
                      </div>
                   </div>
                </div>
@@ -606,7 +623,7 @@
                       </div>
                      </div>
                      <div class="col">
-                        <button>Play Now </button>
+                        <button class="classic-btn bg-btn-aqua">Play Now </button>
                      </div>
                   </div>
                </div>

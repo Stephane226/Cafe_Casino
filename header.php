@@ -3,7 +3,8 @@
 <header class="container">
 <div class="header-top">
 <div class="logo">
-<img src="" alt="">
+<span class="logo-text">21</span>
+<span class="logo-sit">sit</span>
 </div>
 
 
@@ -17,11 +18,11 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-link active classic-btn" href="#">Online Casinos <span class="sr-only">(current)</span></a>
-      <a class="nav-link" href="#">Mobile Casinos</a>
+      <a class="nav-link active classic-btn btn-border-white bg-btn-black" href="#">Online Casinos <span class="sr-only">(current)</span></a>
+      <a class="nav-link" href="#">Mobile Casinos <span class="m-left"><i class="fa-solid fa-chevron-down"></i></span></a>
       <a class="nav-link" href="#">New Danish Casinos</a>
       <a class="nav-link" href="#">Payement Methods</a>
-      <a class="nav-link classic-btn" href="#"> Sign Up Now</a>
+      <a class="nav-link classic-btn bg-btn-black" href="#"> Sign Up Now</a>
       
     </div>
   </div>

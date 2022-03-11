@@ -4,6 +4,25 @@
     color:white
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+
+  ::-webkit-scrollbar-track {
+    background: #07041c;
+  }
+   
+
+  ::-webkit-scrollbar-thumb {
+    background: rgb(189, 189, 189); 
+  }
+  
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
+
 body{
     background-color:#07041c;
     color:white
@@ -20,6 +39,26 @@ img{
     height: 50px;
 }
 /*Header */
+
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans&display=swap');
+
+.logo-text {
+  
+
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 700;
+    color: #f5f5f5;
+
+}
+.logo-sit{
+    margin-top:-50%;
+    margin-top: -84%;
+    display: block;
+    font-size: 12px;
+    margin-left: 92%;
+    text-transform: uppercase;
+}
 .nav-link{
     color:white !important
 }
@@ -68,10 +107,20 @@ img{
     width:100%;
   
 }
+
+
+.borders-line{
+    border: 1px solid transparent !important;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(60deg, #78e4ff, #cea05582);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    box-shadow: 2px 1000px 1px #07041c inset;
+}
 .top-banner{
     min-height:300px;
     padding:30px 30px 0px 30px;
-    background-color:#241f46;
+    background-color:#1b1736;
+    border-radius:10px;
     margin-top:50px;
   
     
@@ -88,7 +137,9 @@ img{
     width:80%
 }
 .banner-texts span{
-    display:block
+    display:block;
+    margin: 5px 0px;
+    font-weight: 500;
 }
 
 
@@ -106,18 +157,22 @@ img{
 
 }
 .slide-icons{
-    margin-top:20px;
+    margin-top:40px;
 }
 .slide-icons span{
     background-color:#1a1634;
     margin:0px 10px;
     padding:2px 10px;
-    border:1px solid rgb(194, 194, 194);
+    border:1px solid rgb(113, 113, 165);
     border-radius:15px;
 
 }
+.fa-chevron-right{
+    margin-right:10px
+}
 .home-content{
-    border-top:1px solid #2b293d
+    border-top:1px solid #5b5775;
+    margin-top: -60px;
 }
 
 .banner-rating{
@@ -137,8 +192,9 @@ img{
 
 
 .slide-ratings{
-    margin-left:70px;
-    margin-top:20px
+ 
+    margin-top:20px;
+    text-align: center;
 }
 
 .banner-rating{
@@ -147,7 +203,7 @@ img{
 .index-ratings{
     width:140px !important;
     position: absolute;
-    right: -23px;
+    right: -80px;
     top: -43px;
     
 }
@@ -200,12 +256,117 @@ img{
 .top-banner-bottom .robot-pic{
   position:relative
 }
-.rbt-foot{
+.rbt-side{
     position: absolute;
     display: block;
-    bottom: -7px;
+  
+}
+.ico-width{
+    width:70px !important
+}
+.rbt-ico-1{
+    position: absolute;
+    display: block;
+   bottom: 75px;
     left: -18px;
+}
+.rbt-ico-2{
+    position: absolute;
+    display: block;
+    top:0px;
+    left:0px
+  
+}
+.rbt-ico-3{
+    position: absolute;
+    display: block;
+    top:0px;
+    right:55px
+}
+.rbt-ico-4{
+    position: absolute;
+    display: block;
+    bottom:140px;
+    left:40px
+}
+.rbt-ico-5{
+    position: absolute;
+    display: block;
+    right:55px;
+    bottom:140px;
+}
 
+  .bg-top-header { padding-top: 10px;
+
+
+}
+.bg-top-header:before {    
+    content: "";
+    background-image: url(../images/bg-top-3.png);
+  
+    position: absolute;
+    top: 0px;
+    margin: 0 auto;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.18;
+    width: 1300px;
+    background-repeat: repeat-x;
+}
+.curencies-banner span{
+    display:block
+}
+.curencies-banner {
+    display:flex;
+    justify-content:space-between;
+    margin-top:30px;
+    
+}
+.curencies-banner span span{
+    font-size:11px;
+    color:#7e77ac;
+    font-weight:900
+}
+.curencies-banner span i{
+    font-size:20px;
+    color:#7e77ac
+}
+
+.classic-btn {
+
+    height:auto;
+    width: auto;
+    background-color: transparent;
+    padding: 10px 49px;
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    border-radius: 20px;
+    border: 1px solid white;
+    color:#fff;
+    margin: auto;
+    border:1px solid transparent !important;
+   background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #78e4ff, #ff48fa);
+      background-origin: border-box;
+      background-clip: content-box, border-box;
+      box-shadow: 2px 1000px 1px #241f46 inset;
+  }
+
+  .btn-border-white{
+    background-image: unset !important;
+    border: 1px solid white !important;
+}
+.bg-btn-black{
+    box-shadow: 2px 1000px 1px #000000 inset !important;  
+
+}
+.bg-btn-aqua{
+    box-shadow: 2px 1000px 1px #07041c inset !important;  
+
+}
+.m-left{
+    margin-left: 5px;
 }
 
 
@@ -267,16 +428,7 @@ img{
     border: 1px solid white;
 }
 
-.classic-btn{
-    width: auto;
-    background-color: transparent;
-    padding: 10px 49px;
-    text-align: center;
-    font-size: 14px;
-    text-transform: uppercase;
-    border-radius: 20px;
-    border: 1px solid white;
-}
+
 
 .section-part{
     margin:50px 0px
@@ -328,8 +480,12 @@ p{
 }
 
 .right-side-inner img{
-    width:100%;
-    max-width:100%
+    width: 100%;
+    max-width: 100%;
+    object-fit: cover;
+    height: 100%;
+    max-height: 55px;
+    border-radius: 7px;
 }
 
 .right-side-inner h6{
@@ -353,6 +509,10 @@ p{
     padding: 12px 5px;
     margin:5px auto;
     width: 100%;
+}
+.sidebar-row .col-lg-3{
+    padding-right: 10px !important;
+    padding-right:10px !important;
 }
 .sidebar-row:hover{
     background-color: #241f43;
@@ -450,7 +610,7 @@ table{
 
 .ratings i{
     font-size: 14px;
-    color:yellow
+    color:#ecb23b
 
 }
 .table-column{
